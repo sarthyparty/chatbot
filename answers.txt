@@ -1,0 +1,31 @@
+Codeucate is a non-profit organization striving to spread coding and programming knowledge around the globe, our classes are taught by experienced high school and colelge students to younger students.
+The number of students/kids per class, or the teacher to student ratio, is usually 10 students per class; however, it may change based on the number of teachers we have.
+A typical class is 2 hours long with a 20 minutes break in between; each teacher will send their group of students an individual Zoom link. The lesson is presented on a Google Slides presentation that covers the key concepts for that particular day along with examples. Students are given time to practice these concepts and ask questions. Both homework and small projects are assigned, but there are no assessments. 
+We want students to be able to ask their own questions and learn the material on their own, so parents are not allowed to participate in our sessions and do the classwork for them. 
+For required materials, we recommend that you use a laptop or a desktop computer with reliable wifi to be able to join classes through Zoom to ensure an enjoyable learning experience.
+If your child is unfamiliar or just a beginner with computer science, we suggest that you enroll them in any one of our introductory courses, such as Introductory Python, Introductory Java, and Introductory Javascript. 
+Some available courses that we offer include Python, HTML/CSS, Java, Javascript, and C++ which are the names of the most common high-level computer programs languages used for coding and are integral components of computer science.
+Parents can be involved in their student’s learning by providing us feedback via our feedback forms; at Codeucate, we believe in quality education and are continuously striving to make our curriculum better. We are open to suggestions and new ideas!
+Our courses are typically 3 weeks long, 2 days a week, 2 hours a session.
+Your child can start with whatever introductory course he/she is interested in; however, if your child is brand new to computer science, then we suggest starting with one of our Introductory Programming Concepts: Scratch course.
+The first class serves as a free trial.
+If your child misses a class or are unable to attend a class, unfortunately we don’t have a make-up class; if your child is unable to make it to one of the meetings it is encouraged that they reach out to their assigned instructor and make any necessary arrangements that way to ensure they get the information they need. If they miss a class, we highly suggest that they review the material that they missed by going through that day’s lesson plan. 
+Our team of interns and volunteers consist of high school students and college students that are eager to share their knowledge of computer science with your child. 
+We don’t require your child to use or purchase any special educational materials for our classes. 
+Your child will receive a certificate after finishing the course, but please contact us if you would like any other proof of completion.
+The dates and times of your courses will be found after logging into your account.
+Before the course begins, we highly suggest to make sure that they have the necessary tools to participate in our classes, such as a computer and working wifi.
+Preparing for a course or class is only required if the class taken is not an introductory class.
+If your student believes that they will have questions outside of class, they can ask for the instructor's email; they should feel free to email their instructor with any questions.
+We are incorporated as a Nonprofit Corporation in the State of Illinois.
+Our prices are around $45; however, because we are non-profit, our prices are flexible.
+Students can get a discount by simply referring a friend to our program; two students do not have to be taking the same course at the same time for it to apply. 
+If you decide to cancel our services anytime before your child begins his/her second online class, you can receive a full refund; however, if you choose to cancel our services after your child takes his/her second online class, we CANNOT give you any refunds: For more details and exceptions, please refer to our refund policy, which can be found at https://docs.google.com/document/d/1r0F4keeC41BvOKV0RqWg3hg7_GL4H3yCW8NmjnqC7F8/edit?usp=sharing.
+Payments are to be executed through an online transaction either through credit, debit card or paypal options.
+We do accept donations; however, we would like to note that we are still in the process of registering for charitable solicitations, meaning any donations currently made to our organization will not be tax deductible.
+If you would like to become a partner, once you have completed the partnership form, we will get back to you with the paperwork; we ask of our partnerships is to advocate for our organization and help recruit students as well as volunteers.
+If you are ready to sign up and the begin the signup proccess, all you have to do is go to the website, log in or register and select the course that you want.
+On the website after logging in and choosing a course, the website will prompt you for your payment information and you can pay there. 
+The difference is that a course is a set of six classes; each course is on a uniquely different subject or coding.
+The general fee of each course is $45, but please keep in mind that we are non-profit, so the cost is flexible.
+To contact us, you can email wecodeucate@gmail.com and we will do our best to get back to you as soon as possible.
